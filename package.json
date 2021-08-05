@@ -1,0 +1,22 @@
+{
+  "name": "dependenciasnpm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "package"
+  ],
+  "author": "JohannCode <johann.rvs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "2.21.1"
+  }
+}
